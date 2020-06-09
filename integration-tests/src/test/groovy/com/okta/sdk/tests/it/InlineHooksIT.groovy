@@ -29,7 +29,7 @@ import static org.hamcrest.Matchers.hasSize
 import static org.hamcrest.Matchers.notNullValue
 
 /**
- * Tests for /api/v1/inlineHooks
+ * Tests for {@code /api/v1/inlineHooks}.
  * @since 2.0.0
  */
 class InlineHooksIT extends ITSupport {
